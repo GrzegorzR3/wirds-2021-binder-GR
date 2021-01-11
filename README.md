@@ -1,6 +1,6 @@
 # wirds-2021-binder-GR
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GrzegorzR3/wirds-2021-binder-GR/main?filepath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GrzegorzR3/wirds-2021-binder-GR/main?urlpath=rstudio)
 
 Aby repozytorium stało się obrazem, który będzie zawierał R wraz z określonymi pakietami należy utworzyć dwa pliki:
 
